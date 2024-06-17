@@ -1,6 +1,6 @@
 # UW-Connect - Connecting students to clubs
 
-## Project Program Kickoff: Team JAMS (ft. Jane He, Annie Guo, Miranda Jiang, and Sophie Xie)
+## Project Program Kickoff: Team JAMS (continued by Jane He)
 
 ### General Overview:
 UW-Connect is a student team project aimed at creating a comprehensive platform to promote and facilitate club participation among university students. The project encompasses a Project Pitch, a Figma Website Prototype, and ongoing development of React/SQL database components.
